@@ -1,0 +1,118 @@
+{
+    "alquileres": [
+        {
+            "numCancha": 1,
+            "cantTotalHoras": 1,
+            "cantMinutos": 0,
+            "fechaInicio": "2024-03-14T23:00:00.000Z",
+            "fechaFin": "2024-03-15T00:00:00.000Z"
+        },
+        {
+            "numCancha": 1,
+            "cantTotalHoras": 1,
+            "cantMinutos": 0,
+            "fechaInicio": "2024-03-15T00:00:00.000Z",
+            "fechaFin": "2024-03-15T01:00:00.000Z"
+        },
+        {
+            "numCancha": 1,
+            "cantTotalHoras": 1,
+            "cantMinutos": 0,
+            "fechaInicio": "2024-03-15T01:00:00.000Z",
+            "fechaFin": "2024-03-15T02:00:00.000Z"
+        },
+        {
+            "numCancha": 3,
+            "cantTotalHoras": 1,
+            "cantMinutos": 0,
+            "fechaInicio": "2024-03-14T22:00:00.000Z",
+            "fechaFin": "2024-03-14T23:00:00.000Z"
+        },
+        {
+            "numCancha": 3,
+            "cantTotalHoras": 1,
+            "cantMinutos": 0,
+            "fechaInicio": "2024-03-15T00:00:00.000Z",
+            "fechaFin": "2024-03-15T01:00:00.000Z"
+        },
+        {
+            "numCancha": 3,
+            "cantTotalHoras": 1,
+            "cantMinutos": 0,
+            "fechaInicio": "2024-03-15T01:00:00.000Z",
+            "fechaFin": "2024-03-15T02:00:00.000Z"
+        },
+        {
+            "numCancha": 4,
+            "cantTotalHoras": 1,
+            "cantMinutos": 0,
+            "fechaInicio": "2024-03-14T21:00:00.000Z",
+            "fechaFin": "2024-03-14T22:00:00.000Z"
+        },
+        {
+            "numCancha": 4,
+            "cantTotalHoras": 1,
+            "cantMinutos": 0,
+            "fechaInicio": "2024-03-14T23:00:00.000Z",
+            "fechaFin": "2024-03-15T00:00:00.000Z"
+        },
+        {
+            "numCancha": 4,
+            "cantTotalHoras": 1,
+            "cantMinutos": 0,
+            "fechaInicio": "2024-03-15T00:00:00.000Z",
+            "fechaFin": "2024-03-15T01:00:00.000Z"
+        },
+        {
+            "numCancha": 5,
+            "cantTotalHoras": 1,
+            "cantMinutos": 0,
+            "fechaInicio": "2024-03-14T22:00:00.000Z",
+            "fechaFin": "2024-03-14T23:00:00.000Z"
+        },
+        {
+            "numCancha": 5,
+            "cantTotalHoras": 1,
+            "cantMinutos": 0,
+            "fechaInicio": "2024-03-14T23:00:00.000Z",
+            "fechaFin": "2024-03-15T00:00:00.000Z"
+        },
+        {
+            "numCancha": 5,
+            "cantTotalHoras": 1,
+            "cantMinutos": 0,
+            "fechaInicio": "2024-03-15T00:00:00.000Z",
+            "fechaFin": "2024-03-15T01:00:00.000Z"
+        }
+    ],
+    "canchas": [
+        {
+            "numCancha": 1,
+            "imagen": "https://res.cloudinary.com/digitalsystemda/image/upload/v1674746952/sac-futbol/dlp135wxrfuw8f1wr1y7.jpg"
+        },
+        {
+            "numCancha": 2,
+            "imagen": "https://res.cloudinary.com/digitalsystemda/image/upload/v1698790106/sac-futbol/ocjunbk3xuoo6wkzxtzk.jpg"
+        },
+        {
+            "numCancha": 3,
+            "imagen": "https://res.cloudinary.com/digitalsystemda/image/upload/v1665076645/sac-futbol/no_foto_mx2fnv.jpg"
+        },
+        {
+            "numCancha": 4,
+            "imagen": "https://res.cloudinary.com/digitalsystemda/image/upload/v1665076645/sac-futbol/no_foto_mx2fnv.jpg"
+        },
+        {
+            "numCancha": 5,
+            "imagen": "https://res.cloudinary.com/digitalsystemda/image/upload/v1665076645/sac-futbol/no_foto_mx2fnv.jpg"
+        }
+    ],
+    "datosEmpresa": {
+        "nombreEmpresa": "Complejo Deportivo Los Amigos",
+        "nombreSucursal": "Misiones 465",
+        "horaApertura": 15,
+        "minutosApertura": 0,
+        "horaCierre": 0,
+        "minutosCierre": 0
+    }
+}

@@ -1,0 +1,63 @@
+{"intents":
+    [
+          {
+            "tag": "saludo",
+            "patterns": ["hola","buenos dias","saludos","como estas?"],
+            "responses":["Buenos dias¿Como estas?","Bienvenido a SAC-Fubtol ChatBot","Hola ¿Como estas?"]
+
+          },
+          {
+            "tag": "ubicacion",
+            "patterns": ["donde queda?","como llego?","en que ciudad queda?","cual es la direccion?"],
+            "responses":[" La direccion de la cancha es: Av. León Gallardo 70, Muñiz, Provincia de Buenos Aires"]
+
+          },
+          {
+            "tag": "horarios_apertura_cierre",
+            "patterns": ["hola que horarios tiene de atencion?"," a que hora cierra?","a que hora abre?","cuales son los horarios de apertura?","hasta que hora estan abiertos"],
+            "responses":["Estamos atendiendo de 10:30 a 23 todos los dias"]
+
+          },
+          {
+            "tag": "horarios_canchas",
+            "patterns": ["que horarios disponible tiene?","canchas disponibles","que canchas tenes","tenes cancha para las"],
+            "responses":["los horarios de cancha que tenemos son:lunes 20:00-21:00 , martes 17:00-18:00 , martes 21:00-22:0 "]
+
+          },
+          {
+          "tag": "agradecimiento",
+          "patterns": ["gracias", "muchas gracias", "te agradezco"],
+          "responses": ["De nada!", "No hay de que.", "Es un placer ayudarte."]
+          },
+          {
+        "tag": "despedida_personalizada",
+        "patterns": ["nos vemos ", "hasta pronto", "adiós","chau"],
+        "responses": ["Muchas gracias por utilizar SAC-Fubtol ChatBot,nos vemos."]
+          },
+          {
+        "tag": "consulta_precios",
+        "patterns": ["queria saber el precio de las canchas", "cuanto sale la cancha","cuanto esta la hora"],
+        "responses": ["El precio de una hora de cancha es:$1000."]
+          },
+         {
+        "tag": "cancelacion",
+        "patterns": ["queria reservar para", "quiero reservar","reservame para las"],
+        "responses": ["El numero para realizar cancelacion y reservas es:1111-1111"]
+          },
+          {
+        "tag": "cancelacion",
+        "patterns": ["queria cancelar la cancha", "queria cancelar mi reserva","queria cancelar el horario que tenia a las"],
+        "responses": ["El numero para realizar cancelacion y reservas es:1111-1111"]
+          },
+          {
+        "tag": "atencion-cliente",
+        "patterns": ["quiero el numero de atencion al cliente", "quiero hablar con una persona","quiero a una persona"],
+        "responses": ["El numero para realizar cancelacion y reservas es:1111-1111"]
+          }
+
+
+
+    ]
+
+
+}
